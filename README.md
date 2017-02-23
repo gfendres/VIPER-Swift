@@ -1,29 +1,19 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* Install CocoaPods - https://cocoapods.org
+* Go to project folder 
+* run: pod install
+* open the workspace
+* CMD+R to run the application
+* CMD+U to run the tests
 
-### Contribution guidelines ###
+### Observations ###
 
-* Writing tests
-* Code review
-* Other guidelines
+So far the tests is covering only the Search Screen.
+OpenWeather API seems to be unstable.
 
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+If you have anything to talk about the project, please let me know.
+gfendres@gmail.com
+skype: gfendres
